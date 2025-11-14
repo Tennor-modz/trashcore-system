@@ -17,7 +17,7 @@
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
         	"@whiskeysockets/baileys":
-   "github:Tennor-modz/MD-Baileys",
+   "npm:wileys",
     "awesome-phonenumber": "^2.64.0",
     "axios": "^1.6.8",
     "adm-zip": "^0.5.16",
